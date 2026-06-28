@@ -1,0 +1,8 @@
+{
+  "name": "mills-gemini-proxy",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "jsonwebtoken": "^9.0.2"
+  }
+}
